@@ -1,0 +1,15 @@
+## Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+## Virtual environments
+.venv/
+venv/
+
+## Env files
+.env
+
+## Models
+backend/ml/models/*.h5
+backend/ml/models/*.keras
